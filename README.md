@@ -1,4 +1,3 @@
-# projecte2
+# PolDonés
 
-This is the Github page for our project, we are Daniil, Pol, Eric B and Ian
- 
+This is the Github page for my projects
